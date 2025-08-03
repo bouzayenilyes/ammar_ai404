@@ -5,7 +5,7 @@ class Chattounsi {
     this.sendButton = document.getElementById("sendButton");
 
     // Replace with your actual Gemini API key
-    this.apiKey = "your api key please";
+    this.apiKey = "AIzaSyCNRGeIgQRn0MuJIkgnWVB5khSbysz9QsE";
     this.apiUrl =
       "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
 
